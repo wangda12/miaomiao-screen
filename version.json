@@ -1,6 +1,6 @@
 {
-  "version": "2.17.0",
-  "url": "https://raw.githubusercontent.com/wangda12/miaomiao-screen/main/miaomiao-screen-2.17.0.fpk",
-  "md5": "0dcadcb8a364c23cf330c42d0edcd765",
-  "notes": "应用更新检查（OTA）"
+  "version": "2.17.1",
+  "url": "https://raw.githubusercontent.com/wangda12/miaomiao-screen/main/miaomiao-screen-2.17.1.fpk",
+  "md5": "6510c80ad169a942d0d04a7a2cac7c74",
+  "notes": "更新源隐藏 + 检查更新按钮"
 }
