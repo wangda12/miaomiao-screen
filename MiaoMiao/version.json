@@ -1,6 +1,6 @@
 {
-  "version": "2.17.2",
-  "url": "https://raw.githubusercontent.com/wangda12/miaomiao-screen/main/MiaoMiao/miaomiao-screen-2.17.2.fpk",
-  "md5": "8cee8f62b66b5ac630cddbffbd2aa436",
-  "notes": "更新源指向 MiaoMiao 子目录"
+  "version": "2.18.0",
+  "url": "https://raw.githubusercontent.com/wangda12/miaomiao-screen/main/MiaoMiao/miaomiao-screen-2.18.0.fpk",
+  "md5": "25e9aceed30b24450a911a8266715afe",
+  "notes": "OTA 升级专区（应用 + ESP32 固件）"
 }
