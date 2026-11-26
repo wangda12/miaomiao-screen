@@ -1,6 +1,6 @@
 {
-  "version": "2.17.1",
-  "url": "https://raw.githubusercontent.com/wangda12/miaomiao-screen/main/MiaoMiao/miaomiao-screen-2.17.1.fpk",
-  "md5": "6510c80ad169a942d0d04a7a2cac7c74",
-  "notes": "更新源隐藏 + 检查更新按钮"
+  "version": "2.17.2",
+  "url": "https://raw.githubusercontent.com/wangda12/miaomiao-screen/main/MiaoMiao/miaomiao-screen-2.17.2.fpk",
+  "md5": "8cee8f62b66b5ac630cddbffbd2aa436",
+  "notes": "更新源指向 MiaoMiao 子目录"
 }
